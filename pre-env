@@ -1,2 +1,6 @@
 export ENV=dev
 export PATH=$HOME/yarnball
+export STATIC_PRIM_EXT_IP=NA
+export ONBOARD = TRUE
+
+source /home/jenkins/.bash_profile
