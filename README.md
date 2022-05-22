@@ -1,2 +1,2 @@
 # yarnball
-Resource provision
+Yarnball repo is used for resource provision on cloud.
